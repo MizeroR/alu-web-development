@@ -1,8 +1,8 @@
-*Learning Objectives*
+***Learning Objectives***
 
 This is a simple project meant to help build the strong knowledge in the web development knowledge, and also it helps build a better background in the vanilla html, css and javascript
 
-*General*
+***General***
 
  What is HTML
  How to create an HTML page from a wireframe
@@ -12,5 +12,5 @@ This is a simple project meant to help build the strong knowledge in the web dev
  What is an attribute
  What the purpose of each HTML tag
 
-*Preview of the platform*
+***Preview of the platform***
 
